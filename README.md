@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Xakimov Muxammadaziz</h1>
 <h3 align="center">Junior FullStack developer from Uzbekistan</h3>
 
-- 🔭 I’m currently studying on **Ferghana politechnical institute**
+- 🔭 I’m currently studying on **Ferghana politechnical institute**<br>
 
-- 🌱 I’m currently learning IT **at Najot ta'lim**
+- 🌱 I’m currently learning IT **at Najot ta'lim**<br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/khakimovM](https://github.com/khakimovM)
+- 👨‍💻 All of my projects are available at [https://github.com/khakimovM](https://github.com/khakimovM)<br>
 
-- 📝 I regularly write articles on [https://t.me/dev_khakimov](https://t.me/dev_khakimov)
+- 📝 I regularly write articles on [https://t.me/dev_khakimov](https://t.me/dev_khakimov)<br>
 
-- 💬 Ask me about **react, node and python**
+- 💬 Ask me about **react, node and python**<br>
 
-- 📫 How to reach me **khakimovmukhammadaziz@gmail.com**
+- 📫 How to reach me **khakimovmukhammadaziz@gmail.com**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
