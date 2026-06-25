@@ -1,7 +1,9 @@
-<!-- ======================= HEADER ======================= -->
-<a href="https://github.com/khakimovM">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:3B82F6&height=260&section=header&text=Xakimov%20Muxammadaziz&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20%7C%20Mentor%20%40%20Mars%20IT%20School&descAlignY=58&descSize=20" />
-</a>
+<!-- ======================= HERO ANIMATION ======================= -->
+<div align="center">
+  <a href="https://github.com/khakimovM">
+    <img width="100%" src="./assets/hero.webp" alt="Developer coding on a mountain cliff at golden-hour sunset — pixel art" />
+  </a>
+</div>
 
 <!-- ======================= TYPING ANIMATION ======================= -->
 <div align="center">
